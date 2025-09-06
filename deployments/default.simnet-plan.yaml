@@ -54,4 +54,9 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: "contracts\\NGOtrack.clar"
             clarity-version: 3
+        - emulated-contract-publish:
+            contract-name: ngo-compliance
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: "contracts\\ngo-compliance.clar"
+            clarity-version: 3
       epoch: "3.1"
